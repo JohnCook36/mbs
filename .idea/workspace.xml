@@ -4,11 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d6c1539e-0b8a-4053-9fde-6ae489041e7a" name="Changes" comment="create(project): init project">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/MyBookShelf.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+    <list default="true" id="d6c1539e-0b8a-4053-9fde-6ae489041e7a" name="Changes" comment="add(project): add eslint">
+      <change afterPath="$PROJECT_DIR$/mbs/.eslintrc.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mbs/prettier.config.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mbs/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/mbs/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mbs/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/mbs/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,24 +19,24 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "JohnCook36"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;JohnCook36&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/JohnCook36/MyBookShelf.git",
-    "accountId": "b973ef50-7bed-4099-a6b3-50e4078017e8"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/JohnCook36/MyBookShelf.git&quot;,
+    &quot;accountId&quot;: &quot;b973ef50-7bed-4099-a6b3-50e4078017e8&quot;
   }
-}]]></component>
+}</component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="35G9ZB0eCWja7t70wYtJLQRLaWR" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -46,10 +47,14 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.standard": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.standard": "",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "prettierjs.PrettierConfiguration.Package": "D:\\JohnCookEducation\\Projects\\MyBookShelf\\mbs\\node_modules\\prettier",
+    "settings.editor.selected.configurable": "settings.javascript.prettier",
     "ts.external.directory.path": "D:\\JohnCookEducation\\Projects\\MyBookShelf\\mbs\\node_modules\\typescript\\lib",
     "vue.rearranger.settings.migration": "true"
   }
@@ -69,7 +74,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1762725594258</updated>
-      <workItem from="1762725595348" duration="2748000" />
+      <workItem from="1762725595348" duration="3830000" />
     </task>
     <task id="LOCAL-00001" summary="create(project): init project">
       <option name="closed" value="true" />
@@ -87,7 +92,15 @@
       <option name="project" value="LOCAL" />
       <updated>1762727769121</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="add(project): add eslint">
+      <option name="closed" value="true" />
+      <created>1762728460441</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1762728460441</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -106,6 +119,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="create(project): init project" />
-    <option name="LAST_COMMIT_MESSAGE" value="create(project): init project" />
+    <MESSAGE value="add(project): add eslint" />
+    <option name="LAST_COMMIT_MESSAGE" value="add(project): add eslint" />
   </component>
 </project>

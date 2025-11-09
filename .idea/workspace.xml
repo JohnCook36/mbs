@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d6c1539e-0b8a-4053-9fde-6ae489041e7a" name="Changes" comment="add(project): add eslint">
-      <change afterPath="$PROJECT_DIR$/mbs/.eslintrc.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mbs/prettier.config.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mbs/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/mbs/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mbs/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/mbs/package.json" afterDir="false" />
-    </list>
+    <list default="true" id="d6c1539e-0b8a-4053-9fde-6ae489041e7a" name="Changes" comment="add(project): add eslint and prettier" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,23 +36,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.standard": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.standard": "",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "prettierjs.PrettierConfiguration.Package": "D:\\JohnCookEducation\\Projects\\MyBookShelf\\mbs\\node_modules\\prettier",
-    "settings.editor.selected.configurable": "settings.javascript.prettier",
-    "ts.external.directory.path": "D:\\JohnCookEducation\\Projects\\MyBookShelf\\mbs\\node_modules\\typescript\\lib",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.standard&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.standard&quot;: &quot;&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;prettierjs.PrettierConfiguration.Package&quot;: &quot;D:\\JohnCookEducation\\Projects\\MyBookShelf\\mbs\\node_modules\\prettier&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;settings.javascript.prettier&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;D:\\JohnCookEducation\\Projects\\MyBookShelf\\mbs\\node_modules\\typescript\\lib&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -74,7 +68,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1762725594258</updated>
-      <workItem from="1762725595348" duration="3830000" />
+      <workItem from="1762725595348" duration="4397000" />
     </task>
     <task id="LOCAL-00001" summary="create(project): init project">
       <option name="closed" value="true" />
@@ -100,7 +94,15 @@
       <option name="project" value="LOCAL" />
       <updated>1762728460441</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="add(project): add eslint and prettier">
+      <option name="closed" value="true" />
+      <created>1762729675859</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1762729675859</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -120,6 +122,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="create(project): init project" />
     <MESSAGE value="add(project): add eslint" />
-    <option name="LAST_COMMIT_MESSAGE" value="add(project): add eslint" />
+    <MESSAGE value="add(project): add eslint and prettier" />
+    <option name="LAST_COMMIT_MESSAGE" value="add(project): add eslint and prettier" />
   </component>
 </project>

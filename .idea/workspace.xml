@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d6c1539e-0b8a-4053-9fde-6ae489041e7a" name="Changes" comment="add(project): add eslint and prettier" />
+    <list default="true" id="d6c1539e-0b8a-4053-9fde-6ae489041e7a" name="Changes" comment="add(project): add emotion.js">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mbs/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/mbs/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mbs/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/mbs/src/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mbs/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/mbs/src/index.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -68,7 +73,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1762725594258</updated>
-      <workItem from="1762725595348" duration="4397000" />
+      <workItem from="1762725595348" duration="4810000" />
     </task>
     <task id="LOCAL-00001" summary="create(project): init project">
       <option name="closed" value="true" />
@@ -102,7 +107,15 @@
       <option name="project" value="LOCAL" />
       <updated>1762729675859</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="add(project): add emotion.js">
+      <option name="closed" value="true" />
+      <created>1762730112452</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1762730112452</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -123,6 +136,7 @@
     <MESSAGE value="create(project): init project" />
     <MESSAGE value="add(project): add eslint" />
     <MESSAGE value="add(project): add eslint and prettier" />
-    <option name="LAST_COMMIT_MESSAGE" value="add(project): add eslint and prettier" />
+    <MESSAGE value="add(project): add emotion.js" />
+    <option name="LAST_COMMIT_MESSAGE" value="add(project): add emotion.js" />
   </component>
 </project>

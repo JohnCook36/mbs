@@ -4,12 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d6c1539e-0b8a-4053-9fde-6ae489041e7a" name="Changes" comment="remove (project): remove start page">
-      <change afterPath="$PROJECT_DIR$/mbs/src/pages/signIn/index.styles.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mbs/src/pages/signIn/index.tsx" afterDir="false" />
+    <list default="true" id="d6c1539e-0b8a-4053-9fde-6ae489041e7a" name="Changes" comment="add (singIn): create page sign in">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mbs/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/mbs/src/App.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mbs/src/assets/react.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mbs/src/pages/signIn/index.styles.ts" beforeDir="false" afterPath="$PROJECT_DIR$/mbs/src/pages/signIn/index.styles.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mbs/src/pages/signIn/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/mbs/src/pages/signIn/index.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +72,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1762725594258</updated>
-      <workItem from="1762725595348" duration="5289000" />
+      <workItem from="1762725595348" duration="5927000" />
     </task>
     <task id="LOCAL-00001" summary="create(project): init project">
       <option name="closed" value="true" />
@@ -124,7 +122,15 @@
       <option name="project" value="LOCAL" />
       <updated>1762730516544</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="add (singIn): create page sign in">
+      <option name="closed" value="true" />
+      <created>1762731011958</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1762731011958</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -147,6 +153,7 @@
     <MESSAGE value="add(project): add eslint and prettier" />
     <MESSAGE value="add(project): add emotion.js" />
     <MESSAGE value="remove (project): remove start page" />
-    <option name="LAST_COMMIT_MESSAGE" value="remove (project): remove start page" />
+    <MESSAGE value="add (singIn): create page sign in" />
+    <option name="LAST_COMMIT_MESSAGE" value="add (singIn): create page sign in" />
   </component>
 </project>
